@@ -1,10 +1,10 @@
 # Data-Analyst-Portfolio
 Using Power BI & SQL 
 
-##Objective
+## Objective
 The primary objective of this Power BI dashboard is to analyze pizza sales data in terms of revenue, order trends, best-selling/ worst-selling pizzas, and sales performance
 
-##Project Description
+## Project Description
 This Power BI project visualizes pizza sales data over a period of one year (January 2015 - December 2015). The dashboard provides comprehensive insights into:
 
 1.Sales Trends – Understanding daily, monthly, and seasonal variations in pizza orders.
@@ -15,7 +15,7 @@ This Power BI project visualizes pizza sales data over a period of one year (Jan
 6.Average Order Insights – Analyzing order values and average pizzas per order to improve marketing strategies.
 
 
-##Key Performance Indicators (KPIs)
+## Key Performance Indicators (KPIs)
 
 1.Total Revenue – Overall revenue from pizza sales.
 2.Average Order Value – Average revenue per order.
@@ -31,12 +31,12 @@ This Power BI project visualizes pizza sales data over a period of one year (Jan
 12.Worst-Selling Pizzas – Bottom 5 pizzas by revenue, quantity, and orders.
 
 
-##Dashboard
+## Dashboard
 ![Dashboard1](https://github.com/user-attachments/assets/6d598fe3-5389-4f79-8c7f-41cd26ce8d41)
 
 ![Dashboard2](https://github.com/user-attachments/assets/89aee0aa-fdd6-49ac-a9ff-4faab3d04504)
 
-##Insights from the Dashboard
+## Insights from the Dashboard
 1.Peak Sales Days & Months
   Orders are at the highest on Fridays and Saturdays.
   The peak months for orders are July and January.
